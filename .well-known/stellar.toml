@@ -1,0 +1,10 @@
+FEDERATION_SERVER="https://api.stellar.org/federation/"
+
+[[CURRENCIES]]
+name="MULTIGRAM"
+code="GRAM"
+desc="Multigram brings real physical gold into blockchain."
+conditions="Every GRAM purchased will be backed up with every gram of real physical gold."
+issuer="GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM"
+display_decimals=7
+image="https://multigram.top/logo.png"
