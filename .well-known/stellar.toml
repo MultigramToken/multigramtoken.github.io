@@ -1,10 +1,24 @@
-FEDERATION_SERVER="https://api.stellar.org/federation/"
+FEDERATION_SERVER="https://api.stellar.org/federation"
 
-[[CURRENCIES]]
-name="MULTIGRAM"
-code="GRAM"
-desc="Multigram brings real physical gold into blockchain."
-conditions="Every GRAM purchased will be backed up with every gram of real physical gold."
-issuer="GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM"
-display_decimals=7
-image="https://multigram.top/logo.png"
+ACCOUNTS=[ 
+"GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM",
+"GATEOKS4ZTXLWCNIEN6POW32KCCF5Q3YYPJG2YKZV6IJQ2UXSCSRGRAM",
+"GDWOZY4DFLKSZLX6U5VEOUR3VND2KNGEPTZWARVYIZA6GMCR3LREGRAM",
+"GCXOKVNMHOPY3QGBQU5MFTC3ECFI24A7NBZA2ANELIDTEQ7OAXUPGRAM",
+"GAOANKCML6XTE3O2SP7ICDTN2AZMA5ARNFMIKXUHVY74W27JYW2KGRAM",
+"GATGIKHIRWH66SJR2VCY3D2ZNR23PTFI4M4JWUC4J2IGICD5NSUHGRAM"
+] 
+
+[DOCUMENTATION] 
+ORG_NAME="MULTIGRAM" 
+ORG_URL="https://multigram.top" 
+ORG_LOGO="https://multigram.top/logo.png" 
+
+[[CURRENCIES]] 
+code="GRAM" 
+issuer="GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM" 
+name="MULTIGRAM" 
+desc="Multigram brings real physical gold into blockchain." 
+display_decimals=7 
+conditions="Every GRAM purchased will be backed up with every gram of real physical gold." 
+image="https://multigram.top/logo/64x64.png" 
