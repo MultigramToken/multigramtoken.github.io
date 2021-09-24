@@ -17,6 +17,7 @@ ORG_LOGO="https://multigram.top/logo.png"
 [[CURRENCIES]] 
 code="GRAM" 
 issuer="GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM" 
+status="LIVE"
 name="MULTIGRAM" 
 desc="Multigram brings real physical gold into blockchain." 
 display_decimals=7 
