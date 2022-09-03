@@ -11,8 +11,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION] 
 ORG_NAME="MULTIGRAM" 
-ORG_URL="https://multigram.top" 
-ORG_LOGO="https://multigram.top/logo.png" 
+ORG_URL="https://gram.toml.host" 
+ORG_LOGO="https://gram.toml.host/logo.png" 
 
 [[CURRENCIES]] 
 code="GRAM" 
@@ -22,4 +22,4 @@ name="MULTIGRAM"
 desc="Multigram brings real physical gold into blockchain." 
 display_decimals=7 
 conditions="Every GRAM purchased will be back-up with every gram of real physical gold. The purity of gold is 99.99999% or equivalent with 24 Karat." 
-image="https://multigram.top/logo/64x64.svg" 
+image="https://gram.toml.host/logo.png" 
