@@ -1,14 +1,5 @@
 FEDERATION_SERVER="https://api.stellar.org/federation"
 
-ACCOUNTS=[ 
-"GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM",
-"GATEOKS4ZTXLWCNIEN6POW32KCCF5Q3YYPJG2YKZV6IJQ2UXSCSRGRAM",
-"GDWOZY4DFLKSZLX6U5VEOUR3VND2KNGEPTZWARVYIZA6GMCR3LREGRAM",
-"GCXOKVNMHOPY3QGBQU5MFTC3ECFI24A7NBZA2ANELIDTEQ7OAXUPGRAM",
-"GAOANKCML6XTE3O2SP7ICDTN2AZMA5ARNFMIKXUHVY74W27JYW2KGRAM",
-"GATGIKHIRWH66SJR2VCY3D2ZNR23PTFI4M4JWUC4J2IGICD5NSUHGRAM"
-] 
-
 [DOCUMENTATION] 
 ORG_NAME="MULTIGRAM" 
 ORG_URL="https://gram.toml.host" 
@@ -19,7 +10,7 @@ code="GRAM"
 issuer="GAANUKUPS2TJ7L2AS2RNC7ZBM753XYFP2KOY65H3WSRCIFKERNANGRAM" 
 status="LIVE"
 name="MULTIGRAM" 
-desc="Multigram brings real physical gold into blockchain." 
+desc="Multigram brings real physical gold into Stellar Blockchain." 
 display_decimals=7 
 conditions="Every GRAM purchased will be back-up with every gram of real physical gold. The purity of gold is 99.99999% or equivalent with 24 Karat." 
 image="https://gram.toml.host/logo.png" 
